@@ -2,11 +2,14 @@
 
 int main(void)
 {
-  int a = 1000, b = 500, c = 3;
+  double pi = 3.14159;
 
-  printf("%5d ¥n", a);
-  printf("%5d ¥n", b);
-  printf("%5d ¥n", c);
+  /** 
+   * 整数3 少数2 小数点1 6.2 
+   * 6 ・・・ 整数+少数+小数点の数
+   * 2 ・・・ 少数桁数
+   * **/
+  printf("%6.2f", pi);
 
   return 0;
 }
