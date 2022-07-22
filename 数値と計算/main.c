@@ -10,9 +10,9 @@ int main(void)
   /**
    * scanf関数
    */
-  int data;
-  scanf("%d", &data);
-  printf("%d", data);
+  double data;
+  scanf("%lf", &data);
+  printf("%lf", data);
 
   return 0;
 }
