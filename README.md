@@ -1,5 +1,4 @@
 # c-practice
-Cのお勉強会会場( ◠‿◠ )
 
-いつもはPHPばかり書いているけれど
-Rustも書けるようになりたいのでとりあえずCもやるの巻
+やってる
+https://9cguide.appspot.com/
